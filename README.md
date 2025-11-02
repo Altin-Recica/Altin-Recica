@@ -11,7 +11,7 @@ My curiosity doesn't stop at the web. I love tinkering with hardware and making 
 ### 🛠️ My Tech Stack
 
 *   **💻 Languages:**
-    *   Java, C#, TypeScript, Python, C++, C
+    *   Java, C#, TypeScript, JavaScript, Python, C++ (Arduino), C
 
 *   **🌐 Frontend:**
     *   React, Angular, JavaScript, Tailwind CSS, HTML/CSS
