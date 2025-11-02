@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Altin! 👋
 
-<!--
-**Altin-Recica/Altin-Recica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a **Full-Stack Developer** from Antwerp, Belgium, with a curious mind for all things code.
 
-Here are some ideas to get you started:
+I enjoy building complete web applications, from solid backends to clean, responsive interfaces. I’ve created web apps with React and TypeScript on the frontend, and with Spring Boot and ASP.NET Core on the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My curiosity doesn't stop at the web. I love tinkering with hardware and making software interact with the physical world, which has led me to fun projects with **Arduino** and **C++**, like building smart parking systems and entrance counters. I've also ventured into mobile development with **Kotlin** to create intuitive Android applications. My goal is to never stop learning and to embrace any challenge that pushes my skills to the next level.
+
+---
+
+### 🛠️ My Tech Stack
+
+*   **💻 Languages:**
+    *   Java, C#, TypeScript, Python, C++, C
+
+*   **🌐 Frontend:**
+    *   React, Angular, JavaScript, Tailwind CSS, HTML/CSS
+
+*   **⚙️ Backend:**
+    *   Spring Boot, ASP.NET Core, Node.js, REST APIs
+
+*   **📱 Mobile & IoT:**
+    *   Kotlin (Android), C/C++ (Arduino)
+
+*   **🛠️ DevOps & Databases:**
+    *   Docker, AWS (Lambda, S3), Git, PostgreSQL, MySQL
+
+---
+
+<p align="center">
+  Feel free to dive into my repositories!
+</p>
